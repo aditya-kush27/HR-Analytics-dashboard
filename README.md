@@ -104,5 +104,5 @@ This dashboard helps businesses:
 This project showcases practical data analytics skills including data cleaning, modeling, and visualization using Power BI, making it a strong portfolio project for aspiring Data Analysts.
 
 # Screenshot / Demos
-Show what the dashboard look like :- https://github.com/aditya-kush27/HR-Analytics-dashboard/blob/main/hr%20analysis%20dashboard%20preview.png
-Example :- ![dashboard Preview].(https://github.com/aditya-kush27/HR-Analytics-dashboard/blob/main/hr%20analysis%20dashboard%20preview.png).
+Show what the dashboard look like :- (<img width="1272" height="721" alt="hr analysis dashboard preview" src="https://github.com/user-attachments/assets/aa1b5db7-209b-4ca3-b34c-e0f45d5bf93f" />
+).
