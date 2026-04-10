@@ -100,8 +100,9 @@ This dashboard helps businesses:
 * Integrate real-time data
 * Deploy dashboard to Power BI Service
 
-# Screenshot / Demos
-Show what the dashboard look like :- https://github.com/aditya-kush27/HR-Analytics-dashboard/blob/main/hr%20analysis%20dashboard%20preview.png
-
 ## 🙌 Conclusion
 This project showcases practical data analytics skills including data cleaning, modeling, and visualization using Power BI, making it a strong portfolio project for aspiring Data Analysts.
+
+# Screenshot / Demos
+Show what the dashboard look like :- https://github.com/aditya-kush27/HR-Analytics-dashboard/blob/main/hr%20analysis%20dashboard%20preview.png
+Example :- ![dashboard Preview].(https://github.com/aditya-kush27/HR-Analytics-dashboard/blob/main/hr%20analysis%20dashboard%20preview.png).
